@@ -1,7 +1,7 @@
 
 
 # Declare input argument as a variable
-
+read inputVar
 # Convert markdown to HTML
 
 # Convert markdown to DOCX
